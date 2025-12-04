@@ -6,10 +6,10 @@
  * Update these values according to your MySQL server configuration.
  */
 
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'cental_db');
-define('DB_USER', 'root');
-define('DB_PASS', 'admin123');
+define('DB_HOST', 'sql210.infinityfree.com');
+define('DB_NAME', 'if0_40599491_cental_db');
+define('DB_USER', 'if0_40599491');
+define('DB_PASS', 'qc5z4RvkA0');
 
 /**
  * Get PDO database connection

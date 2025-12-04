@@ -1,8 +1,6 @@
 -- Cental Car Rental Database Schema
 -- Run this SQL file to create the database and tables
 
-CREATE DATABASE IF NOT EXISTS cental_db;
-USE cental_db;
 
 -- Users table
 CREATE TABLE IF NOT EXISTS users (
